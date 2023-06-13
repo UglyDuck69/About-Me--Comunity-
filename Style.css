@@ -1,0 +1,215 @@
+@font-face {
+    font-family: 'Graphik';
+    src: url(fonts/GraphikRegular.otf);
+}
+@font-face {
+    font-family: 'Relative';
+    src: url(fonts/relative-book.ttf);
+}
+* {
+box-sizing: border-box;
+}
+* h1{
+    word-wrap: break-word;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.logoh1{
+    font-family: 'Graphik';
+font-style: normal;
+font-weight: 600;
+font-size: 29.8266px;
+line-height: 33px;
+text-align: center;
+letter-spacing: -0.03em;
+color: #000000;
+margin-top: 10px;
+}
+.link a{
+    font-family: 'Relative';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+text-align: right;
+text-decoration-line: underline;
+color: #161616;
+}
+.welcome1{
+    font-family: 'Relative';
+font-style: normal;
+font-weight: 500;
+font-size: 60px;
+line-height: 72px;
+letter-spacing: -0.02em;
+margin-top: 80px;
+color: #101828;
+
+}
+.welcome2{
+    font-family: 'Relative';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 150%;
+margin-top: 24px;
+color: #161616;
+}
+.div2{
+    width: 447px;
+    height: fit-content;
+    background: #E4E2DF;
+    border-radius: 12px;
+    padding: 24px;
+}
+.creators{
+    font-family: 'Relative';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 120%;
+letter-spacing: -0.02em;
+color: #101828;
+}
+.creatorsdivdescription h1 {
+    font-family: 'Relative';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+color: #161616;
+}
+.links a {
+    font-family: 'Relative';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+text-decoration-line: underline;
+color: #161616;
+}
+.name{
+    font-family: 'Relative';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+color: #161616;
+}
+.position{
+font-family: 'Relative';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+color: #161616;
+}
+.persons{
+    margin-top: 12px;
+    align-items: center;
+}
+.div1{
+    width: 800px;
+    border-top: 1px solid rgba(0, 0, 0, 0.15);
+    padding: 48px 0px;
+}
+.About{
+    font-family: 'Relative';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 120%;
+letter-spacing: -0.02em;
+color: #101828;
+word-wrap: break-word;
+}
+.content{
+    margin-top: 24px;
+    font-family: 'Relative';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+color: rgba(22, 22, 22, 0.6);
+word-wrap: break-word;
+}
+.h1{
+    font-family: 'Relative';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 150%;
+margin-top: 24px;
+color: #161616;
+}
+.h3{
+    font-family: 'Relative';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+color: #161616;
+}
+.list2 li {
+    padding-left: 36px;
+    font-family: 'Relative';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    color: rgba(22, 22, 22, 0.6);
+    margin-top: 12px;
+}
+.content1{
+    font-family: 'Relative';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+margin-top: 24px;
+word-wrap: break-word;
+color: rgba(22, 22, 22, 0.6);
+}
+.h5{
+    font-family: 'Relative';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 150%;
+color: #161616;
+}
+.social a {
+    font-family: 'Relative';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    /* identical to box height, or 156% */
+    
+    text-decoration-line: underline;
+    
+    color: #161616;
+
+}
+.h6{
+    font-family: 'Relative';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 150%;
+margin-top: 24px;
+color: #161616;
+}
+.h7{
+    font-family: 'Relative';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+margin-top: 24px;
+color: rgba(22, 22, 22, 0.6);
+}
